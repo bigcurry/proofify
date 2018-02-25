@@ -3510,7 +3510,7 @@
 /* Banner */
 
 	#banner {
-		background-color: ##c1807f;
+		background-color: ##ffffff;
 		color: #ffffff;
 		padding: 8em 0 6em 0;
 		text-align: center;
@@ -3521,15 +3521,15 @@
 		}
 
 		#banner a {
-			color: #c1807f;
+			color: #ffffff;
 		}
 
 		#banner strong, #banner b {
-			color: #c1807f;
+			color: #ffffff;
 		}
 
 		#banner h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
-			color: #c1807f;
+			color: #ffffff;
 		}
 
 		#banner blockquote {
@@ -3550,7 +3550,7 @@
 		#banner input[type="button"],
 		#banner button,
 		#banner .button {
-			background-color: #f7f7f7;
+			background-color: #7FC0C1;
 			color: #555 !important;
 		}
 
