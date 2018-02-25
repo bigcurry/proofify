@@ -3510,8 +3510,8 @@
 /* Banner */
 
 	#banner {
-		background-color: ##ffffff;
-		color: #ffffff;
+		background-color: #7FC0C1;
+		color: #000000;
 		padding: 8em 0 6em 0;
 		text-align: center;
 	}
@@ -3521,7 +3521,7 @@
 		}
 
 		#banner a {
-			color: #ffffff;
+			color: #000000;
 		}
 
 		#banner strong, #banner b {
